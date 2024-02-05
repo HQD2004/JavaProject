@@ -64,7 +64,7 @@ public class Assignment8 {
                     System.out.println("\nPlease enter a number:");
                     number = keyboard.nextInt();
                     result = Geek2.smallestDigit(number);
-                    System.out.println("\nThe smallest digit in " + number + " is " + result + ".\n");
+                    System.out.println("\nThe largest digit in " + number + " is " + result + ".\n");
                     break;
 
                 case 'e': // reverses a string
